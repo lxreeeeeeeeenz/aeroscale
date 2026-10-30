@@ -1,0 +1,4 @@
+# Dependências do AeroScale (Python 3.10 ou superior)
+Flask>=3.0,<4
+# Base de fusos horários IANA (obrigatória no Windows; no Linux/macOS é usada se existir)
+tzdata>=2024.1
